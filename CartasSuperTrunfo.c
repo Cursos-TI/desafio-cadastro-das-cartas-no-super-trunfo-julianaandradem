@@ -1,5 +1,11 @@
-Criei o printf
 #include <stdio.h>
+
+int main(){
+printf("desafio super trunfo! \n");
+printf("Novo commit\n")
+
+
+}
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
